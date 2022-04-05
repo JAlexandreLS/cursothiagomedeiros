@@ -1,0 +1,19 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;*/
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}    
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+
+/*Aonde está comentado, a regra foi usada para empurrar 100% para a direita e 10% do topo */
+
+/* O background-size-cover cobre todo o espaço da tela com a imagem*/
+
+/* O background-attachment-fixed, deixa a imagem de fundo fixa enquanto o restante do conteúdo da tela desliza.
