@@ -52,6 +52,7 @@ h2 {
 
 .links-list {
   list-style: none;
+  
   /*display: block;
   justify-content: center;
   margin: 10px;
@@ -61,6 +62,7 @@ h2 {
 
 .links-list li {
   margin: 10px 20px;
+  
 }
 
 .links-list li a {
@@ -80,9 +82,10 @@ h2 {
 }
 
 #zap {
-  
-  margin-top: 50px;
+  margin-top: 25px;
 }
+
+
 
 /*.lista-cursos {
   display: inline-flex;
